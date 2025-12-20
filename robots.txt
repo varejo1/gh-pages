@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://varejo1.com.br/sitemap.xml
